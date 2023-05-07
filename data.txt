@@ -1,0 +1,9 @@
+-----------------------------------SLS ICE-CREAM PARLOUR------------------------------------
+--------------------------------------Customer's Data---------------------------------------
+
+Date: Sun May  7 06:47:21 2023
+	ID: 1 ; SIZE: large ; FLAVOR: chocolate ; TOPPINGS: chocolateChip ; CHOICE: cone ; BILL: 13.45 ;
+
+Date: Sun May  7 06:47:22 2023
+	ID: 2 ; SIZE: medium ; FLAVOR: vanilla ; TOPPINGS: chocolateChip ; CHOICE: cup ; BILL: 12.37 ;
+
